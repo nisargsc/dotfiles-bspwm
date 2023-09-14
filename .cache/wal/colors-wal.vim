@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/nisargsc/.local/share/wallpapers/lofi-samurai.jpg"
+let background = "#151819"
+let foreground = "#dad0dd"
+let cursor     = "#dad0dd"
+
+" Colors
+let color0  = "#151819"
+let color1  = "#A75A6B"
+let color2  = "#69895D"
+let color3  = "#BBA85D"
+let color4  = "#5B708C"
+let color5  = "#B7709F"
+let color6  = "#67C1CD"
+let color7  = "#dad0dd"
+let color8  = "#98919a"
+let color9  = "#A75A6B"
+let color10 = "#69895D"
+let color11 = "#BBA85D"
+let color12 = "#5B708C"
+let color13 = "#B7709F"
+let color14 = "#67C1CD"
+let color15 = "#dad0dd"

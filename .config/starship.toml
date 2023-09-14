@@ -1,0 +1,112 @@
+[username]
+format = "[$user]($style)"
+show_always = true
+style_root = "bold green"
+style_user = "bold green"
+
+[hostname]
+disabled = false
+format = "@[$hostname]($style)"
+ssh_only = true
+style = "blue"
+trim_at = "-"
+
+[directory]
+format = " in [$path]($style)[$read_only]($read_only_style) "
+style = "purple"
+truncate_to_repo = true
+truncation_length = 0
+truncation_symbol = "repo: "
+
+[git_status]
+ahead = "⇡${count}"
+behind = "⇣${count}"
+deleted = "x"
+diverged = "⇕⇡${ahead_count}⇣${behind_count}"
+style = "white"
+
+[git_metrics]
+disabled = false
+
+[sudo]
+disabled = true
+
+[cmd_duration]
+disabled = false
+format = "took [$duration]($style)"
+min_time = 1
+
+[status]
+format = '[$symbol]($style)'
+symbol = ' '
+not_executable_symbol = ' '
+not_found_symbol = '󰍉 '
+sigint_symbol = '󰟾 '
+signal_symbol = '󱐋 '
+disabled = false
+map_symbol = true
+pipestatus = true
+style = "bold red"
+
+[git_branch]
+symbol = " "
+
+[hg_branch]
+symbol = " "
+
+[nodejs]
+disabled = true
+
+[aws]
+disabled = true
+
+[conda]
+disabled = true
+
+[dart]
+disabled = true
+
+[docker_context]
+disabled = true
+
+[elixir]
+disabled = true
+
+[elm]
+disabled = true
+
+[golang]
+disabled = true
+
+[java]
+disabled = true
+
+[julia]
+disabled = true
+
+[nim]
+disabled = true
+
+[nix_shell]
+disabled = true
+
+[package]
+disabled = true
+
+[perl]
+disabled = true
+
+[php]
+disabled = true
+
+[python]
+disabled = true
+
+[ruby]
+disabled = true
+
+[rust]
+disabled = true
+
+[swift]
+disabled = true

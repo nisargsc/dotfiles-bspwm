@@ -1,0 +1,21 @@
+set $wallpaper /home/nisargsc/.local/share/wallpapers/lofi-samurai.jpg
+
+set $background #151819
+set $foreground #dad0dd
+
+set $color0 #151819
+set $color1 #A75A6B
+set $color2 #69895D
+set $color3 #BBA85D
+set $color4 #5B708C
+set $color5 #B7709F
+set $color6 #67C1CD
+set $color7 #dad0dd
+set $color8 #98919a
+set $color9 #A75A6B
+set $color10 #69895D
+set $color11 #BBA85D
+set $color12 #5B708C
+set $color13 #B7709F
+set $color14 #67C1CD
+set $color15 #dad0dd
