@@ -23,20 +23,20 @@ scrolling:
   multiplier: 3
 
 font:
-  size: 12
+  size: 18
   normal:
     family: Fantasque Sans Mono
-    #family: FantasqueSansMono Nerd Font
+    # family: FantasqueSansMono Nerd Font
   bold:
     family: Fantasque Sans Mono
-      #family: FantasqueSansMono Nerd Font
+    # family: FantasqueSansMono Nerd Font
   italic:
     family: Fantasque Sans Mono
-      #family: FantasqueSansMono Nerd Font
+    # family: FantasqueSansMono Nerd Font
   bold_italic:
     family: Fantasque Sans Mono
-      #family: FantasqueSansMono Nerd Font
-    size: 12.0
+    # family: FantasqueSansMono Nerd Font
+    size: 18.0
 
 draw_bold_text_with_bright_colors: true
 

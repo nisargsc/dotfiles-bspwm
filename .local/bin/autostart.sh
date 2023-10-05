@@ -22,3 +22,5 @@ nitrogen --restore &
 $HOME/.config/polybar/launch.sh &
 
 run /usr/lib/kdeconnectd &
+run /usr/bin/emacs --daemon &
+

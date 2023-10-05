@@ -179,10 +179,6 @@ alias cls="clear"
 # dotfiles git 
 alias dot="/usr/bin/git --git-dir=$HOME/dotfiles-git-bare.git/ --work-tree=$HOME"
 
-# Blockchain
-alias blktmp="ganache-cli --networkId 1337"
-alias blk="ganache-cli --networkId 1337 --db ~/hdd/myne/ganache-db/"
-
 # Warp CLI
 alias wrp="warp-cli connect"
 alias diwrp="warp-cli disconnect"

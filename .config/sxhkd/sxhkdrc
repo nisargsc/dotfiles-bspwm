@@ -30,6 +30,7 @@ XF86Audio{Mute,LowerVolume,RaiseVolume}
 XF86Audio{Play,Next,Prev,Stop}
 	playerctl {play-pause, next, previous, stop}
 
+
 #############################################################
 #
 # bspwm hotkeys
